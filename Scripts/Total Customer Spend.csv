@@ -1,0 +1,600 @@
+"customer_id","country","city","first_name","last_name","total_amount_paid"
+148,"Runion","Saint-Denis","Eleanor","Hunt",211.55
+526,"United States","Cape Coral","Karl","Seal",208.58
+178,"Brazil","Santa Brbara dOeste","Marion","Snyder",194.61
+137,"Netherlands","Apeldoorn","Rhonda","Kennedy",191.62
+144,"Belarus","Molodetno","Clara","Shaw",189.60
+459,"Iran","Qomsheh","Tommy","Collazo",183.63
+181,"United States","Memphis","Ana","Bradley",167.67
+410,"Canada","Richmond Hill","Curtis","Irby",167.62
+236,"Philippines","Tanza","Marcia","Dean",166.61
+403,"India","Valparai","Mike","Way",162.67
+522,"Philippines","Santa Rosa","Arnold","Havens",161.68
+469,"Spain","Ourense (Orense)","Wesley","Bull",158.65
+470,"Yemen","Hodeida","Gordon","Allard",157.69
+373,"Philippines","Tanauan","Louis","Leone",156.66
+259,"India","Halisahar","Lena","Jensen",154.70
+468,"India","Bijapur","Tim","Cary",154.66
+462,"Russian Federation","Usolje-Sibirskoje","Warren","Sherrod",152.69
+372,"Indonesia","Probolinggo","Steve","Mackenzie",152.68
+187,"Ukraine","Sumy","Brittany","Riley",151.73
+550,"China","Zhoushan","Guy","Brownlee",151.69
+176,"Algeria","Skikda","June","Carroll",151.68
+532,"Vietnam","Cam Ranh","Neil","Renner",149.69
+75,"Taiwan","Changhwa","Tammy","Sanders",149.61
+209,"India","Bhilwara","Tonya","Chapman",147.71
+26,"Holy See (Vatican City State)","Citt del Vaticano","Jessica","Hall",146.68
+21,"Bangladesh","Tangail","Michelle","Clark",146.68
+86,"Thailand","Songkhla","Jacqueline","Long",146.68
+211,"China","Fuyu","Stacey","Montgomery",146.67
+346,"Russian Federation","Maikop","Arthur","Simpkins",145.70
+366,"Turkey","Balikesir","Brandon","Huey",145.64
+50,"Sudan","Omdurman","Diane","Collins",144.70
+360,"Puerto Rico","Arecibo","Ralph","Madrigal",144.68
+348,"Taiwan","Hsichuh","Roger","Quintanilla",144.66
+513,"Nauru","Yangor","Duane","Tubbs",143.70
+454,"Mexico","Uruapan","Alex","Gresham",143.68
+347,"Latvia","Daugavpils","Ryan","Salisbury",142.70
+390,"Thailand","Nakhon Sawan","Shawn","Heaton",142.69
+267,"China","Lengshuijiang","Margie","Wade",142.67
+257,"Mozambique","Beira","Marsha","Douglas",142.66
+39,"Brazil","Vila Velha","Debra","Nelson",141.71
+78,"India","Rae Bareli","Lori","Wood",141.69
+362,"Brazil","Belm","Nicholas","Barfield",140.69
+363,"Kenya","Nyeri","Roy","Whiting",139.72
+119,"Egypt","Shubra al-Khayma","Sherry","Marshall",139.69
+368,"Iran","Najafabad","Harry","Arce",139.69
+66,"Sweden","Malm","Janice","Ward",139.67
+237,"South Korea","Naju","Tanya","Gilbert",138.69
+29,"Japan","Shimonoseki","Angela","Hernandez",138.65
+87,"Colombia","Sincelejo","Wanda","Patterson",137.72
+80,"Nigeria","Ife","Marilyn","Ross",137.70
+439,"Italy","Bergamo","Alexander","Fennell",137.67
+558,"Poland","Wroclaw","Jimmie","Eggleston",135.72
+494,"Ecuador","Robamba","Ramon","Choate",135.70
+576,"Taiwan","Fengshan","Morris","Mccarter",135.68
+591,"Brazil","Juiz de Fora","Kent","Arsenault",134.73
+467,"Mexico","Cuauhtmoc","Alvin","Deloach",134.72
+479,"United States","Akron","Zachary","Hite",134.71
+210,"Yemen","Aden","Ella","Oliver",134.70
+120,"Colombia","Dos Quebradas","Sylvia","Ortiz",134.70
+204,"Turkey","Usak","Rosemary","Schmidt",134.69
+15,"India","Bhopal","Helen","Harris",134.68
+5,"Taiwan","Nantou","Elizabeth","Brown",134.65
+349,"Philippines","Imus","Joe","Gilliland",133.72
+404,"Japan","Omiya","Stanley","Scroggins",133.71
+172,"Turkey","Batman","Bernice","Willis",133.70
+197,"China","Changzhou","Sue","Peters",133.68
+265,"Czech Republic","Olomouc","Jennie","Terry",132.72
+533,"China","Binzhou","Jessie","Milam",132.70
+380,"Poland","Tychy","Russell","Brinson",132.65
+472,"Vietnam","Nam Dinh","Greg","Robins",131.74
+13,"Turkey","Osmaniye","Karen","Jackson",131.73
+125,"South Africa","Boksburg","Ethel","Webb",131.69
+46,"Russian Federation","Moscow","Catherine","Campbell",131.69
+3,"Greece","Athenai","Linda","Williams",130.76
+273,"Mexico","Salamanca","Priscilla","Lowe",130.72
+7,"Yugoslavia","Kragujevac","Maria","Miller",130.72
+502,"India","Siliguri (Shiliguri)","Brett","Cornwell",130.70
+566,"Turkey","Tokat","Casey","Mena",130.68
+342,"Brazil","Boa Vista","Harold","Martino",130.68
+112,"United States","Lancaster","Rosa","Reynolds",129.72
+560,"Argentina","Avellaneda","Jordan","Archuleta",129.71
+102,"Israel","Ashdod","Crystal","Ford",129.70
+168,"China","Jinchang","Regina","Berry",129.68
+484,"China","Yinchuan","Roberto","Vu",128.73
+242,"China","Qinhuangdao","Glenda","Frazier",128.71
+103,"Nigeria","Ilorin","Gladys","Hamilton",128.71
+84,"Mexico","Atlixco","Sara","Perry",128.70
+196,"Germany","Mannheim","Alma","Austin",128.69
+221,"Italy","Syrakusa","Bessie","Morrison",127.73
+448,"Germany","Erlangen","Miguel","Betancourt",127.73
+520,"Vietnam","Nha Trang","Mitchell","Westmoreland",127.69
+141,"Japan","Fukuyama","Debbie","Reyes",127.69
+38,"Moldova","Chisinau","Martha","Gonzalez",127.66
+200,"Turkmenistan","Ashgabat","Jeanne","Lawson",126.74
+206,"Brazil","Blumenau","Terri","Vasquez",126.73
+146,"United States","Sterling Heights","Jamie","Rice",126.73
+436,"Canada","Vancouver","Troy","Quigley",126.73
+108,"Mexico","Huixquilucan","Tracy","Cole",126.72
+114,"Germany","Duisburg","Grace","Ellis",126.70
+426,"India","Purnea (Purnia)","Bradley","Motley",125.74
+482,"Mexico","Coatzacoalcos","Maurice","Crawley",125.74
+295,"Russian Federation","Kolpino","Daisy","Bates",125.72
+147,"Japan","Urawa","Joanne","Robertson",125.68
+354,"Brazil","Santo Andr","Justin","Ngo",125.67
+45,"Chile","Antofagasta","Janet","Phillips",124.74
+89,"Argentina","La Plata","Julia","Flores",124.71
+198,"Nigeria","Ikerre","Elsie","Kelley",124.68
+129,"China","Liaocheng","Carrie","Porter",124.66
+300,"India","Parbhani","John","Farnsworth",123.74
+2,"United States","San Bernardino","Patricia","Johnson",123.74
+506,"Indonesia","Pontianak","Leslie","Seward",123.72
+371,"Philippines","Cabuyao","Billy","Poulin",123.71
+51,"United States","Fontana","Alice","Stewart",123.70
+27,"Philippines","Davao","Shirley","Allen",123.70
+30,"Taiwan","Lungtan","Melissa","King",123.66
+92,"Brazil","Goinia","Tina","Simmons",122.74
+434,"Philippines","Ozamis","Eddie","Tomlin",122.74
+535,"Chad","NDjamna","Javier","Elrod",122.72
+163,"Japan","Kakamigahara","Cathy","Spencer",122.71
+244,"Philippines","Lapu-Lapu","Viola","Hanson",122.70
+473,"Indonesia","Lhokseumawe","Jorge","Olivares",122.69
+508,"India","Vijayawada","Milton","Howland",121.77
+497,"United Kingdom","York","Gilbert","Sledge",121.73
+166,"Malawi","Lilongwe","Lynn","Payne",121.73
+451,"Mexico","El Fuerte","Jim","Rea",121.70
+438,"Zambia","Kitwe","Barry","Lovelace",121.70
+406,"Virgin Islands, U.S.","Charlotte Amalie","Nathan","Runyon",121.69
+491,"Egypt","Mit Ghamr","Rick","Mattox",120.75
+179,"Russian Federation","Kirovo-Tepetsk","Dana","Hart",120.74
+423,"Egypt","Sawhaj","Alfred","Casillas",120.74
+499,"Italy","Brindisi","Marc","Outlaw",120.71
+122,"Peru","Lima","Thelma","Murray",120.70
+59,"India","Mysore","Cheryl","Murphy",119.76
+389,"China","Emeishan","Alan","Kahn",119.75
+487,"Russian Federation","Pjatigorsk","Hector","Poindexter",119.74
+207,"Greenland","Nuuk","Gertrude","Castillo",119.72
+306,"Malaysia","Sungai Petani","Charles","Kowalski",119.72
+82,"Ukraine","Simferopol","Kathryn","Coleman",118.76
+41,"Armenia","Yerevan","Stephanie","Mitchell",118.75
+589,"Ecuador","Loja","Tracy","Herrmann",118.75
+565,"Peru","Hunuco","Jaime","Nettles",118.73
+35,"France","Toulouse","Virginia","Green",118.70
+128,"Poland","Jastrzebie-Zdrj","Marjorie","Tucker",118.70
+230,"Romania","Botosani","Joy","George",118.69
+285,"Japan","Otsu","Miriam","Mckinney",117.77
+583,"United Kingdom","Southampton","Marshall","Thorn",117.77
+585,"Argentina","Quilmes","Perry","Swafford",117.76
+504,"United States","Joliet","Nathaniel","Adam",117.75
+421,"India","Pudukkottai","Lee","Hawks",117.75
+573,"Kazakstan","Zhezqazghan","Byron","Box",117.72
+49,"Saudi Arabia","Jedda","Joyce","Edwards",116.76
+149,"United States","Brockton","Valerie","Black",116.75
+253,"Japan","Miyakonojo","Terry","Carlson",116.74
+263,"Philippines","Mandaluyong","Hilda","Hopkins",116.73
+274,"India","Karnal","Naomi","Jennings",116.73
+71,"Philippines","Baybay","Kathy","James",116.72
+356,"India","Satna","Gerald","Fultz",116.71
+56,"French Polynesia","Papeete","Gloria","Cook",115.74
+512,"United Kingdom","London","Cecil","Vines",115.74
+529,"India","Bhimavaram","Erik","Guillen",115.72
+393,"Russian Federation","Korolev","Philip","Causey",115.71
+158,"United States","Greensboro","Veronica","Stone",115.70
+279,"Iran","Tabriz","Dianne","Shelton",114.76
+54,"Japan","Iwakuni","Teresa","Rogers",114.74
+584,"Gambia","Banjul","Salvador","Teel",114.73
+262,"Ecuador","Portoviejo","Patsy","Davidson",114.73
+388,"Philippines","Cavite","Craig","Morrell",114.72
+107,"Argentina","Merlo","Florence","Woods",114.72
+1,"Japan","Sasebo","Mary","Smith",114.70
+433,"Mozambique","Naala-Porto","Don","Bone",113.77
+309,"Italy","Brescia","Christopher","Greco",113.75
+266,"Austria","Salzburg","Nora","Herrera",113.74
+302,"China","Tiefa","Michael","Silverman",113.74
+139,"Taiwan","Touliu","Amber","Dixon",113.73
+569,"China","Leshan","Dave","Gardiner",113.73
+416,"Pakistan","Dadu","Jeffery","Pinson",113.72
+314,"Brazil","Sorocaba","George","Linton",113.71
+260,"China","Datong","Christy","Vargas",113.70
+582,"Mexico","Huejutla de Reyes","Andy","Vanhorn",112.76
+540,"Bulgaria","Ruse","Tyrone","Asher",112.76
+63,"United States","Lincoln","Ashley","Richardson",112.75
+32,"India","Jhansi","Amy","Lopez",112.74
+131,"Ukraine","Mukateve","Monica","Hicks",112.73
+485,"China","Shaoguan","Clyde","Tobias",112.72
+453,"Venezuela","Maracabo","Calvin","Martel",111.77
+225,"India","Ambattur","Arlene","Harvey",111.76
+337,"Japan","Onomichi","Jerry","Jordon",111.76
+577,"Taiwan","Tanshui","Clifton","Malcolm",111.74
+113,"Venezuela","Cuman","Cindy","Fisher",111.73
+579,"Iraq","Mosul","Daryl","Larue",111.73
+173,"Austria","Graz","Audrey","Ray",111.73
+186,"India","Haldia","Holly","Fox",111.71
+42,"Thailand","Pak Kret","Carolyn","Perez",111.71
+592,"Hungary","Szkesfehrvr","Terrance","Roush",111.71
+531,"Japan","Kuwana","Jamie","Waugh",110.77
+495,"China","Baiyin","Charlie","Bess",110.76
+258,"Dominican Republic","Santiago de los Caballeros","Myrtle","Fleming",110.76
+515,"Chile","Coquimbo","Andre","Rapp",110.74
+154,"China","Yuncheng","Michele","Grant",110.73
+213,"Yemen","Taizz","Gina","Williamson",110.73
+90,"China","Meixian","Ruby","Washington",110.72
+559,"Egypt","Bilbays","Everett","Banda",110.72
+595,"China","Jinzhou","Terrence","Gunderson",110.71
+241,"China","Xiangfan","Heidi","Larson",110.68
+536,"South Korea","Tonghae","Fernando","Churchill",109.77
+170,"India","Udaipur","Beatrice","Arnold",109.77
+575,"Mexico","Cuernavaca","Isaac","Oglesby",109.76
+220,"Tanzania","Zanzibar","Charlene","Alvarez",109.75
+16,"United Kingdom","Southend-on-Sea","Sandra","Martin",109.75
+538,"China","Baicheng","Ted","Breaux",109.73
+447,"Russian Federation","Nabereznyje Telny","Clifford","Bowens",109.73
+376,"Russian Federation","Kurgan","Randy","Gaither",109.73
+386,"Ukraine","Kamjanets-Podilskyi","Todd","Tan",109.72
+446,"India","Uluberia","Theodore","Culp",109.72
+481,"Tanzania","Mwanza","Herman","Devore",109.72
+424,"China","Shanwei","Kyle","Spurlock",109.71
+284,"Nigeria","Benin City","Sonia","Gregory",108.78
+594,"China","Jining","Eduardo","Hiatt",108.77
+277,"Nigeria","Ogbomosho","Olga","Jimenez",108.76
+590,"Bahrain","al-Manama","Seth","Hannon",108.76
+334,"Azerbaijan","Sumqayit","Raymond","Mcwhorter",108.75
+518,"Turkey","Sivas","Gabriel","Harder",108.75
+574,"Japan","Akishima","Julian","Vest",108.73
+239,"Indonesia","Ciomas","Minnie","Romero",108.72
+167,"India","Chandrapur","Sally","Pierce",108.71
+293,"Spain","Donostia-San Sebastin","Mae","Fletcher",107.79
+571,"Poland","Plock","Johnnie","Chisholm",107.78
+427,"Brazil","Guaruj","Jesus","Mccartney",107.77
+332,"Bangladesh","Dhaka","Stephen","Qualls",107.74
+441,"Algeria","Batna","Mario","Cheatham",107.73
+145,"South Africa","Soshanguve","Lucille","Holmes",107.73
+588,"China","Weifang","Marion","Ocampo",107.73
+157,"North Korea","Pyongyang","Darlene","Rose",107.71
+418,"Dominican Republic","San Felipe de Puerto Plata","Jeff","East",107.70
+254,"Brazil","Poos de Caldas","Maxine","Silva",107.70
+91,"Brunei","Bandar Seri Begawan","Lois","Butler",107.66
+477,"United Kingdom","Stockport","Dan","Paine",106.79
+240,"Japan","Iwaki","Marlene","Welch",106.77
+343,"Mexico","Mexicali","Douglas","Graf",106.77
+155,"Switzerland","Bern","Gail","Knight",106.76
+234,"Kuwait","Jalib al-Shuyukh","Claudia","Fuller",106.75
+116,"Indonesia","Pemalang","Victoria","Gibson",106.74
+471,"South Africa","Johannesburg","Dean","Sauer",106.74
+160,"Russian Federation","Ljubertsy","Erin","Dunn",106.73
+457,"United States","Rockford","Bill","Gavin",106.73
+23,"Latvia","Liepaja","Sarah","Lewis",106.73
+52,"Spain","A Corua (La Corua)","Julie","Sanchez",106.72
+138,"China","Hohhot","Hazel","Warren",106.68
+490,"Colombia","Sogamoso","Sam","Mcduffie",105.78
+331,"Argentina","Santa F","Eric","Robert",105.78
+127,"Russian Federation","Smolensk","Elaine","Stevens",105.78
+193,"Kenya","Kisumu","Katie","Elliott",105.77
+294,"United States","Dayton","Shelly","Watts",105.77
+400,"United States","Dallas","Bryan","Hardison",105.76
+58,"Malaysia","Kuching","Jean","Bell",105.76
+396,"Japan","Iwatsuki","Earl","Shanks",105.74
+40,"Morocco","Nador","Amanda","Carter",105.74
+96,"United States","Augusta-Richmond County","Diana","Alexander",105.73
+444,"Estonia","Tartu","Marcus","Hidalgo",105.72
+28,"India","Munger (Monghyr)","Cynthia","Young",105.70
+345,"Paraguay","San Lorenzo","Carl","Artis",104.79
+493,"Turkey","Sultanbeyli","Brent","Harkins",104.78
+289,"Hong Kong","Kowloon and New Kowloon","Violet","Rodriquez",104.76
+121,"India","Etawah","Josephine","Gomez",104.75
+171,"Malaysia","Ipoh","Dolores","Wagner",104.75
+31,"India","Kamarhati","Brenda","Wright",104.74
+407,"South Africa","Rustenburg","Dale","Ratcliff",104.74
+25,"Pakistan","Shikarpur","Deborah","Walker",104.73
+397,"Russian Federation","Atinsk","Jimmy","Schrader",104.72
+442,"China","Tongliao","Leroy","Bustamante",104.71
+341,"Netherlands","Ede","Peter","Menard",103.78
+280,"Nigeria","Owo","Tracey","Barrett",103.77
+296,"India","Patiala","Ramona","Hale",103.77
+214,"United States","Sunnyvale","Kristin","Johnston",103.74
+202,"India","Bhusawal","Carla","Gutierrez",103.74
+245,"South Korea","Uijongbu","Courtney","Day",103.74
+408,"Sri Lanka","Jaffna","Manuel","Murrell",103.73
+20,"Pakistan","Mardan","Sharon","Robinson",103.73
+292,"United Arab Emirates","Sharja","Misty","Lambert",102.78
+553,"Yugoslavia","Novi Sad","Max","Pitt",102.77
+510,"Russian Federation","Kamyin","Ben","Easter",102.77
+98,"United Arab Emirates","al-Ayn","Lillian","Griffin",102.76
+587,"Mexico","Celaya","Sergio","Stanfield",102.76
+190,"Tanzania","Tabora","Yolanda","Weaver",102.75
+126,"Brazil","Po","Ellen","Simpson",102.75
+44,"Russian Federation","Lipetsk","Marie","Turner",101.79
+466,"China","Dongying","Leo","Ebert",101.78
+100,"Russian Federation","Jelets","Robin","Hayes",101.77
+593,"United States","Garden Grove","Rene","Mcalister",101.76
+405,"Argentina","Tandil","Leonard","Schofield",101.70
+486,"Mexico","Acua","Glen","Talbert",100.77
+572,"Poland","Czestochowa","Sidney","Burleson",100.76
+517,"Taiwan","Chungho","Brad","Mccurdy",100.76
+251,"Germany","Halle/Saale","Vickie","Brewer",100.75
+219,"Argentina","Vicente Lpez","Willie","Howell",100.75
+135,"India","Pune","Juanita","Mason",100.72
+519,"Japan","Isesaki","Ron","Deluca",99.78
+11,"Japan","Sagamihara","Lisa","Anderson",99.77
+57,"Liechtenstein","Vaduz","Evelyn","Morgan",99.74
+297,"India","Ahmadnagar","Sherri","Rhodes",99.74
+563,"Romania","Bucuresti","Ken","Prewitt",99.73
+503,"Japan","Ueda","Angel","Barclay",99.72
+452,"United Arab Emirates","Abu Dhabi","Tom","Milner",99.71
+381,"Anguilla","South Hill","Bobby","Boudreau",99.68
+19,"South Africa","Kimberley","Ruth","Martinez",98.82
+329,"Bangladesh","Jamalpur","Frank","Waggoner",98.77
+175,"India","Allappuzha (Alleppey)","Annette","Olson",98.76
+537,"United States","Aurora","Clinton","Buford",98.76
+374,"Brazil","Vitria de Santo Anto","Jeremy","Hurtado",98.75
+425,"Mexico","San Juan Bautista Tuxtepec","Francis","Sikes",98.75
+264,"Japan","Higashiosaka","Gwendolyn","May",98.75
+580,"Philippines","Iligan","Ross","Grey",98.74
+367,"India","Adoni","Adam","Gooch",97.80
+65,"French Guiana","Cayenne","Rose","Howard",97.80
+460,"Colombia","Florencia","Leon","Bostic",97.79
+409,"Nigeria","Deba Habe","Rodney","Moeller",97.78
+562,"Nigeria","Sokoto","Wallace","Slone",97.78
+475,"Ukraine","ostka","Pedro","Chestnut",97.78
+192,"India","Firozabad","Laurie","Lawrence",97.78
+123,"India","Varanasi (Benares)","Shannon","Freeman",97.77
+256,"Myanmar","Monywa","Mabel","Holland",97.75
+581,"Mexico","Jos Azueta","Virgil","Wofford",97.75
+379,"India","Bhavnagar","Carlos","Coughlin",96.79
+268,"India","Palghat (Palakkad)","Nina","Soto",96.79
+269,"United States","Salinas","Cassandra","Walters",96.79
+83,"South Africa","Springs","Louise","Jenkins",96.78
+352,"Cameroon","Bamenda","Albert","Crouse",96.78
+14,"United States","Citrus Heights","Betty","White",96.77
+414,"Mexico","Allende","Vincent","Ralston",96.77
+286,"Nigeria","Effon-Alaiye","Velma","Lucas",96.76
+317,"Faroe Islands","Trshavn","Edward","Baugh",96.76
+445,"Argentina","Escobar","Micheal","Forman",96.76
+500,"Indonesia","Madiun","Reginald","Kinder",96.75
+422,"China","Laohekou","Melvin","Ellington",96.75
+74,"Brazil","Rio Claro","Denise","Kelly",96.74
+554,"India","Rajkot","Dwayne","Olvera",95.80
+106,"Russian Federation","Ivanovo","Connie","Wallace",95.79
+578,"Mexico","Carmen","Willard","Lumpkin",95.79
+180,"Colombia","Pereira","Stacy","Cunningham",95.78
+324,"China","Yuzhou","Gary","Coy",95.78
+541,"Italy","Livorno","Darren","Windham",95.78
+488,"Mexico","La Paz","Shane","Millard",95.78
+339,"China","Xinxiang","Walter","Perryman",95.76
+456,"Senegal","Ziguinchor","Ronnie","Ricketts",95.76
+199,"Vietnam","Haiphong","Beth","Franklin",95.76
+132,"South Africa","Botshabelo","Esther","Crawford",95.72
+22,"Morocco","Sal","Laura","Rodriguez",94.81
+150,"Mexico","Hidalgo","Danielle","Daniels",94.78
+68,"India","Shivapuri","Nicole","Peterson",94.78
+276,"United States","Warren","Brandy","Graves",94.77
+161,"Israel","Tel Aviv-Jaffa","Geraldine","Perkins",94.76
+546,"China","Sanya","Kelly","Knott",94.76
+153,"Indonesia","Jakarta","Suzanne","Nichols",94.76
+10,"Iran","Esfahan","Dorothy","Taylor",94.76
+111,"Venezuela","Caracas","Carmen","Owens",94.75
+321,"Nepal","Birgunj","Kevin","Schuler",93.83
+528,"Angola","Benguela","Claude","Herzog",93.80
+432,"South Africa","Newcastle","Edwin","Burk",93.80
+319,"Mexico","San Felipe del Progreso","Ronald","Weiner",93.79
+443,"Brazil","So Leopoldo","Francisco","Skidmore",93.79
+105,"Tuvalu","Funafuti","Dawn","Sullivan",93.78
+336,"India","Rampur","Joshua","Mark",93.78
+385,"Japan","Tama","Phillip","Holm",93.76
+229,"Brazil","Anpolis","Tamara","Nguyen",93.75
+383,"Angola","Namibe","Martin","Bales",93.75
+12,"India","Yamuna Nagar","Nancy","Thomas",93.74
+377,"Iran","Kermanshah","Howard","Fortner",93.74
+47,"Brazil","Juazeiro do Norte","Frances","Parker",92.81
+544,"Brazil","So Bernardo do Campo","Cody","Nolen",92.80
+307,"Brazil","Angra dos Reis","Joseph","Joy",92.80
+81,"Madagascar","Mahajanga","Andrea","Henderson",92.79
+365,"Japan","Okinawa","Bruce","Schwarz",92.79
+511,"China","Suihua","Chester","Benner",92.78
+431,"Bolivia","Sucre","Joel","Francisco",92.78
+182,"United States","Compton","Renee","Lane",92.76
+516,"Cambodia","Battambang","Elmer","Noe",92.76
+474,"Netherlands","Emmen","Dustin","Gillette",92.75
+188,"Philippines","Bayugan","Melanie","Armstrong",92.75
+275,"United States","Peoria","Carole","Barnett",92.75
+489,"Japan","Okayama","Ricardo","Meador",91.81
+505,"Philippines","Talavera","Rafael","Abney",91.81
+212,"United States","Bellevue","Wilma","Richards",91.80
+37,"China","Nanyang","Pamela","Baker",91.79
+417,"Saudi Arabia","al-Qatif","Travis","Estep",91.78
+201,"Germany","Witten","Vicki","Fields",91.78
+392,"Ethiopia","Addis Abeba","Sean","Douglass",91.77
+570,"Mexico","Monclova","Ivan","Cromwell",91.75
+323,"Mexico","Cuautla","Matthew","Mahan",91.75
+64,"China","Daxian","Judith","Cox",91.70
+261,"Philippines","Tuguegarao","Deanna","Byrd",90.78
+216,"Brazil","Aparecida de Goinia","Natalie","Meyer",90.78
+99,"South Korea","Kimchon","Emily","Diaz",90.77
+36,"Iran","Arak","Kathleen","Adams",90.75
+461,"Philippines","Gingoog","Derek","Blakely",90.73
+552,"China","Haining","Hugh","Waldrop",89.80
+364,"Mexico","Guadalajara","Benjamin","Varney",89.78
+43,"French Polynesia","Faaa","Christine","Roberts",89.78
+73,"Taiwan","Chiayi","Beverly","Brooks",89.78
+333,"Azerbaijan","Baku","Andrew","Purdy",89.78
+69,"Algeria","Bchar","Judy","Gray",89.77
+507,"Turkey","Eskisehir","Edgar","Rhoads",89.77
+156,"Nigeria","Ondo","Bertha","Ferguson",89.77
+235,"Colombia","Buenaventura","Jackie","Lynch",89.77
+233,"Egypt","Idfu","Lillie","Kim",89.77
+463,"Canada","Halifax","Darrell","Power",89.76
+34,"Japan","Kurashiki","Rebecca","Scott",89.76
+361,"Cameroon","Yaound","Lawrence","Lawton",89.71
+249,"China","Tianjin","Dora","Medina",88.81
+247,"Mexico","Coacalco de Berriozbal","Stella","Moreno",88.81
+375,"Congo, The Democratic Republic of the","Mwene-Ditu","Aaron","Selby",88.80
+33,"Italy","Alessandria","Anna","Hill",88.80
+415,"Netherlands","Amersfoort","Glenn","Pullen",88.78
+60,"India","Jaipur","Mildred","Bailey",88.78
+231,"India","Uttarpara-Kotrung","Georgia","Jacobs",88.77
+53,"Japan","Nagareyama","Heather","Morris",88.76
+133,"Mexico","Torren","Pauline","Henry",88.75
+72,"Philippines","Taguig","Theresa","Watson",88.73
+17,"Russian Federation","Elista","Donna","Thompson",87.82
+203,"Indonesia","Gorontalo","Tara","Ryan",87.81
+547,"Japan","Kanazawa","Kurt","Emmons",87.80
+476,"Canada","Gatineau","Derrick","Bourque",87.80
+523,"Vietnam","Vinh","Harvey","Guajardo",87.80
+305,"United States","Arlington","Richard","Mccrary",87.80
+226,"Paraguay","Asuncin","Maureen","Little",87.79
+189,"Canada","Oshawa","Loretta","Carpenter",87.79
+130,"Brazil","guas Lindas de Gois","Charlotte","Hunter",87.78
+351,"Russian Federation","Zeleznogorsk","Jack","Foust",87.77
+597,"Peru","Sullana","Freddie","Duggan",87.77
+509,"India","Chapra","Raul","Fortier",86.82
+478,"Israel","Ashqelon","Lewis","Lyman",86.81
+238,"India","Shimoga","Nellie","Garrett",86.81
+195,"Germany","Siegen","Vanessa","Sims",86.81
+501,"Poland","Lublin","Ruben","Geary",86.81
+169,"China","Pingxiang","Erica","Matthews",86.80
+67,"China","Xiangtan","Kelly","Torres",86.80
+217,"India","Sambhal","Agnes","Bishop",86.79
+232,"Nigeria","Zaria","Constance","Reid",86.77
+101,"Saudi Arabia","Abha","Peggy","Myers",86.77
+419,"India","Katihar","Chad","Carbone",86.76
+228,"Cambodia","Phnom Penh","Allison","Stanley",86.75
+561,"United States","Garland","Ian","Still",86.75
+208,"India","Balurghat","Lucy","Wheeler",86.75
+115,"Mexico","Nezahualcyotl","Wendy","Harrison",86.73
+437,"Dominican Republic","La Romana","Randall","Neumann",85.80
+567,"Russian Federation","Serpuhov","Alfredo","Mcadams",85.80
+359,"Argentina","Almirante Brown","Willie","Markham",85.78
+455,"Bolivia","El Alto","Jon","Wiles",85.78
+382,"United States","Manchester","Victor","Barkley",85.78
+24,"Argentina","Crdoba","Kimberly","Lee",85.77
+77,"Brazil","Araatuba","Jane","Bennett",85.77
+8,"New Zealand","Hamilton","Susan","Wilson",85.77
+450,"Indonesia","Surakarta","Jay","Robb",85.75
+542,"Indonesia","Pangkal Pinang","Lonnie","Tirado",84.84
+545,"Ukraine","Konotop","Julio","Noland",84.81
+55,"Russian Federation","Balaiha","Doris","Reed",84.81
+88,"South Korea","Cheju","Bonnie","Hughes",84.80
+539,"Venezuela","Valencia","Mathew","Bolin",84.80
+299,"Japan","Hiroshima","James","Gannon",84.79
+6,"United States","Laredo","Jennifer","Davis",84.75
+140,"United States","Clarksville","Eva","Ramos",83.82
+480,"Turkey","Gaziantep","Corey","Hauser",83.81
+143,"Turkey","Kilis","Leslie","Gordon",83.80
+440,"India","Dhule (Dhulia)","Bernard","Colby",83.79
+598,"Switzerland","Lausanne","Wade","Delvalle",83.78
+340,"Vietnam","Hanoi","Patrick","Newsom",83.77
+496,"China","Rizhao","Tyler","Wren",82.81
+564,"China","Xintai","Bob","Pfeiffer",82.78
+498,"Oman","Salala","Gene","Sanborn",82.76
+483,"Turkey","Denizli","Vernon","Chapa",81.83
+524,"Indonesia","Purwakarta","Jared","Ely",81.83
+308,"United States","Kansas City","Thomas","Grigsby",81.81
+174,"Venezuela","Ocumare del Tuy","Yvonne","Watkins",81.81
+322,"Argentina","Baha Blanca","Jason","Morrissey",81.81
+312,"Saudi Arabia","Tabuk","Mark","Rinehart",81.80
+165,"China","Hami","Lorraine","Stephens",81.80
+534,"India","Amroha","Christian","Jung",81.78
+4,"Myanmar","Myingyan","Barbara","Jones",81.78
+215,"Bulgaria","Stara Zagora","Jessie","Banks",81.76
+527,"Belarus","Mogiljov","Cory","Meehan",81.76
+151,"China","Laiwu","Megan","Palmer",81.75
+311,"Russian Federation","Kursk","Paul","Trout",80.85
+449,"Iran","Sirjan","Oscar","Aquino",80.83
+205,"Paraguay","Ciudad del Este","Eileen","Carr",80.82
+316,"India","Miraj","Steven","Curley",80.81
+184,"Netherlands","s-Hertogenbosch","Vivian","Ruiz",80.80
+290,"Venezuela","Valle de la Pascua","Kristina","Chambers",80.78
+287,"India","Tambaram","Becky","Miles",80.78
+521,"China","Yingkou","Roland","South",80.77
+357,"Slovakia","Bratislava","Keith","Rico",80.77
+304,"Peru","Callao","David","Royal",79.81
+109,"South Africa","Klerksdorp","Edna","West",79.81
+185,"Iran","Shahr-e Kord","Roberta","Harper",79.80
+282,"Puerto Rico","Ponce","Jenny","Castro",79.80
+387,"Congo, The Democratic Republic of the","Lubumbashi","Jesse","Schilling",79.78
+391,"Japan","Izumisano","Clarence","Gamez",79.75
+429,"Japan","Tsuyama","Frederick","Isbell",78.84
+599,"China","Tieli","Austin","Cintron",78.82
+18,"Nigeria","Kaduna","Carol","Garcia",78.81
+338,"South Africa","Paarl","Dennis","Gilman",78.80
+9,"Oman","Masqat","Margaret","Moore",78.80
+298,"Finland","Oulu","Erika","Pena",78.79
+62,"United States","Saint Louis","Joan","Cooper",78.79
+227,"Germany","Saarbrcken","Colleen","Burton",78.78
+435,"China","Junan","Ricky","Shelby",78.77
+223,"Pakistan","Mandi Bahauddin","Melinda","Fernandez",77.84
+134,"Egypt","Qalyub","Emma","Boyd",77.81
+402,"France","Brest","Luis","Yanez",77.81
+394,"Spain","Gijn","Chris","Brothers",77.80
+384,"China","Huaian","Ernest","Stepp",77.79
+104,"France","Toulon","Rita","Graham",77.78
+243,"Argentina","San Miguel de Tucumn","Lydia","Burke",77.77
+246,"Brazil","Maring","Marian","Mendoza",76.82
+118,"United States","Grand Prairie","Kim","Cruz",76.80
+93,"China","Zalantun","Phyllis","Foster",76.80
+224,"India","Jodhpur","Pearl","Garza",76.78
+70,"Saudi Arabia","al-Hawiya","Christina","Ramirez",75.83
+270,"Poland","Kalisz","Leah","Curtis",75.81
+358,"India","Ranchi","Samuel","Marlow",75.80
+551,"Brazil","Alvorada","Clayton","Barbee",75.79
+530,"Argentina","Ezeiza","Darryl","Ashcraft",75.78
+183,"Brazil","Luzinia","Ida","Andrews",75.78
+194,"Japan","Hino","Kristen","Chavez",74.84
+555,"South Africa","Chatsworth","Dwight","Lombardi",74.83
+412,"India","Hoshiarpur","Allen","Butterfield",74.83
+327,"Turkey","Adana","Larry","Thrasher",74.81
+420,"United States","El Monte","Jacob","Lance",74.80
+76,"Kazakstan","Pavlodar","Irene","Price",74.79
+142,"United Kingdom","Dundee","April","Burns",74.77
+398,"Brazil","Bag","Antonio","Meek",73.85
+291,"United States","Roanoke","Toni","Holt",73.83
+399,"Pakistan","Okara","Danny","Isom",73.82
+428,"Russian Federation","Syktyvkar","Herbert","Kruger",73.81
+79,"Japan","Kamakura","Rachel","Barnes",73.81
+152,"India","Nagaon","Alicia","Mills",73.81
+543,"Morocco","Beni-Mellal","Lance","Pemberton",73.80
+335,"Tunisia","Sousse","Gregory","Mauldin",73.78
+596,"Greece","Patras","Enrique","Forsythe",73.78
+411,"Indonesia","Cianjur","Norman","Currier",73.76
+95,"India","Pathankot","Paula","Bryant",72.83
+325,"Brazil","Braslia","Timothy","Bunn",72.82
+556,"United Kingdom","Southport","Armando","Gruber",72.82
+85,"United Kingdom","Bradford","Anne","Powell",72.79
+301,"Russian Federation","Kaliningrad","Robert","Baughman",71.85
+222,"Russian Federation","Jaroslavl","Delores","Hansen",71.84
+94,"Philippines","Bislig","Norma","Gonzales",71.81
+430,"Russian Federation","Dzerzinsk","Ray","Houle",71.80
+278,"Turkey","Inegl","Billie","Horton",71.79
+177,"Mexico","Matamoros","Samantha","Duncan",71.77
+255,"Philippines","Hagonoy","Irma","Pearson",70.82
+378,"China","Shenzhen","Eugene","Culpepper",70.82
+370,"India","Gulbarga","Wayne","Truong",70.81
+303,"Yemen","Sanaa","William","Satterfield",70.81
+117,"India","Gandhinagar","Edith","Mcdonald",69.83
+369,"Mexico","Jurez","Fred","Wheat",69.79
+514,"China","Zaoyang","Franklin","Troutman",69.79
+310,"Brazil","Ibirit","Daniel","Cabral",68.87
+465,"Mexico","Zapopan","Floyd","Gandy",68.84
+525,"Italy","Udine","Adrian","Clary",68.82
+355,"Japan","Matsue","Terry","Grissom",68.81
+283,"China","Korla","Felicia","Sutton",68.77
+48,"Russian Federation","Niznekamsk","Ann","Evans",67.86
+464,"Chile","Rancagua","Jerome","Kenyon",67.86
+315,"Israel","Bat Yam","Kenneth","Gooden",67.86
+218,"Afghanistan","Kabul","Vera","Mccoy",67.82
+191,"Russian Federation","Novoterkassk","Jeanette","Greene",66.82
+458,"Indonesia","Tegal","Lloyd","Dowd",66.81
+568,"Venezuela","Barcelona","Alberto","Henning",66.79
+272,"China","Yantai","Kay","Caldwell",65.87
+353,"Mexico","Pachuca de Soto","Jonathan","Scarborough",65.83
+328,"Indonesia","Ciparay","Jeffrey","Spear",65.83
+413,"India","Berhampore (Baharampur)","Marvin","Yee",65.81
+164,"Turkey","Tarsus","Joann","Gardner",64.85
+344,"Tonga","Nukualofa","Henry","Billingsley",64.84
+326,"Saint Vincent and the Grenadines","Kingstown","Jose","Andrew",64.82
+548,"Philippines","Tarlac","Allan","Cornish",63.84
+313,"China","Ezhou","Donald","Mahon",63.84
+350,"Russian Federation","Teboksary","Juan","Fraley",63.79
+557,"Lithuania","Vilnius","Felix","Gaffney",63.78
+492,"India","Kanchrapara","Lester","Kraus",62.85
+549,"Spain","Santiago de Compostela","Nelson","Christenson",62.84
+401,"Japan","Koriyama","Tony","Carranza",62.81
+330,"United States","Aurora","Scott","Shelley",60.82
+136,"India","Hubli-Dharwad","Anita","Morales",59.86
+162,"France","Le Mans","Lauren","Hudson",59.83
+159,"Austria","Linz","Jill","Hawkins",58.83
+97,"Mozambique","Tete","Annie","Russell",58.82
+252,"United Kingdom","London","Mattie","Hoffman",58.80
+61,"Switzerland","Basel","Katherine","Rivera",57.87
+124,"Turkey","Ktahya","Sheila","Wells",57.86
+395,"Sudan","al-Qadarif","Johnny","Turpin",57.81
+271,"India","Kumbakonam","Penny","Neal",56.84
+250,"Nigeria","Oyo","Jo","Fowler",54.85
+288,"Mexico","Valle de Santiago","Bobbie","Craig",52.81
+586,"Taiwan","Tsaotun","Kirk","Stclair",50.83
+110,"China","Enshi","Tiffany","Jordan",49.88
+320,"American Samoa","Tafuna","Anthony","Schwab",47.85
+248,"United States","Tallahassee","Caroline","Bowman",37.87
+281,"China","Fuzhou","Leona","Obrien",32.90
+318,"Poland","Bydgoszcz","Brian","Wyman",27.93
