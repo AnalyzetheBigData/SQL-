@@ -1,0 +1,50 @@
+## How to Create a CTE(Common Table Expression) within SQL
+
+WITH top5_customer_count_cte AS
+ (SELECT SUM(A.amount) AS Total_amount_paid, B.customer_id, B.first_name, B.last_name, D.city, E.country
+ FROM payment A INNER JOIN customer B ON A.customer_id = B.customer_id
+ INNER JOIN address C ON B.address_id = C.address_id
+ INNER JOIN city D ON C.city_id = D.city_id
+ INNER JOIN country E ON D.country_id = E.country_id
+ WHERE city IN ('Aurora','Acua','Citrus Heights', 'Iwaki','Ambattur','Shanwei','So Leopoldo','Teboksary','Tianjin','Cianjur')
+ GROUP BY B.customer_id,
+  		  first_name,
+  		  last_name,
+  		  city,
+  		  country
+ORDER BY total_amount_paid DESC
+LIMIT 5),
+
+all_customer_count_cte AS
+(SELECT E.country,
+		COUNT(DISTINCT B.customer_id) AS all_customer_count,
+ 		COUNT(DISTINCT E.country) AS top5_customer_count
+ FROM country E
+ INNER JOIN city D ON E.country_id = D.country_id
+ INNER JOIN address C ON D.city_id = C.city_id
+ INNER JOIN customer B ON C.address_id = B.address_id
+ GROUP BY E.country)
+ 
+ SELECT E.country, 
+ 	COUNT(DISTINCT B.customer_id) AS all_customer_count,
+	COUNT(DISTINCt top5_customer_count_cte.customer_id) AS top5_customer_count
+FROM country E
+INNER JOIN city D ON E.country_id = D.country_id
+INNER JOIN address C ON D.city_id = C.city_id
+INNER JOIN customer B ON C.address_id = B.address_id
+LEFT JOIN
+top5_customer_count_cte ON E.country =top5_customer_count_cte.country
+GROUP BY E.country
+ORDER BY all_customer_count DESC
+LIMIT 5
+
+## Example of a CTE All Customer Count - Common Table Expression in SQL 
+all_customer_count_cte AS (
+  SELECT E.country,
+    COUNT(DISTINCT B.customer_id) AS all_customer_count,
+    COUNT(DISTINCT E.country) AS top5_customer_count
+  FROM country E
+  INNER JOIN city D ON E.country_id = D.country_id
+  INNER JOIN address C ON D.city_id = C.city_id
+  INNER JOIN customer B ON C.address_id = B.address_id
+  GROUP BY E.country
